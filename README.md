@@ -1,22 +1,18 @@
-Quiz Game
+# QuizGame
 
-
-Description
-A simple console-based quiz game in Python covering multiple programming languages (C, C++, Python, Java) with varying difficulty levels.  
-Users can select language and difficulty, answer multiple-choice questions, and get their score at the end.
+## Description
+A simple console-based quiz game in Python covering multiple programming languages (C, C++, Python, Java) with varying difficulty levels, answer multiple-choice questions, and get their score at the end.
 
 ## Features
-
-- Supports 4 programming languages: C, C++, Python, Java
-- Three difficulty levels: Easy, Medium, Hard
-- Multiple-choice questions with 4 options each
-- Randomized question order
-- Timed quiz with a countdown timer (optional)
-- Score display and feedback
-- Simple and interactive command-line interface
+- Supports 4 programming languages: C, C++, Python, Java  
+- Three difficulty levels: Easy, Medium, Hard  
+- Multiple-choice questions with 4 options each  
+- Randomized question order  
+- Timed quiz with a countdown timer (optional)  
+- Score display and feedback  
+- Simple and interactive command-line interface  
 
 ## How to Run
-
 1. Clone the repository:
    ```bash
    git clone https://github.com/Mythrireddy21/QuizGame.git
@@ -28,14 +24,12 @@ Users can select language and difficulty, answer multiple-choice questions, and 
    ```bash
    python quiz_game.py
    ```
-
 3. Follow the on-screen instructions to select language, difficulty, and answer questions.
 
 ## Requirements
 
 * Python 3.x
-
-No external libraries are required.
+* No external libraries required
 
 ## Project Structure
 
@@ -43,7 +37,6 @@ No external libraries are required.
 QuizGame
 ├── quiz_game.py       # Main quiz game script
 ├── README.md          # Project documentation
-
 ```
 
 ## How It Works
@@ -74,4 +67,6 @@ Feel free to contribute or raise issues!
 
 **Author:** Mythri Reddy
 **GitHub:** [https://github.com/Mythrireddy21](https://github.com/Mythrireddy21)
+
+```
 
