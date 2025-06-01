@@ -1,4 +1,7 @@
-QuizGame
+Quiz Game
+
+
+Description
 A simple console-based quiz game in Python covering multiple programming languages (C, C++, Python, Java) with varying difficulty levels.  
 Users can select language and difficulty, answer multiple-choice questions, and get their score at the end.
 
